@@ -1,4 +1,4 @@
-console.log("desde app3")
+
 
 function Cliente(nombre,apellido,saldo){
     this.nombre = nombre;
